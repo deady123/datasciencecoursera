@@ -1,10 +1,1 @@
----
-title: "HelloWorld"
-author: "Tristan"
-date: "5/25/2020"
-output:
-  html_document:
-    df_print: paged
----
-
 ## This is a markdown file
